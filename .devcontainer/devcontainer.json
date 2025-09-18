@@ -1,4 +1,1 @@
-{
-    "image": "mcr.microsoft.com/devcontainers/base:alpine",
-    "postCreateCommand": "chmod +x .devcontainer/postCreate.sh && .devcontainer/postCreate.sh"
-}
+
